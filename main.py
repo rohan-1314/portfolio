@@ -12,3 +12,7 @@ with col2:
     rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
     """
     st.info(content)
+content2 = """
+Below you can find some apps I have built in pytho. Feel free to contact me!
+"""
+st.write(content2)
